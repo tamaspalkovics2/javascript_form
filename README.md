@@ -1,2 +1,2 @@
 # javascript_form
-Javascript adatkezeles
+Javascript urlapkezeles gyakorlasa
